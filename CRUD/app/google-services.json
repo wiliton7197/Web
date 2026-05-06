@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1064062974207",
+    "project_id": "crudkot",
+    "storage_bucket": "crudkot.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1064062974207:android:e6d495a4528589b0ca74ca",
+        "android_client_info": {
+          "package_name": "com.example.crudsimple"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAd6RWSzyMlDnpm8Ii-tzAMOB6_JZPelJE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
