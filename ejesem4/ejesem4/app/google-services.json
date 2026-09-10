@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "487354031124",
+    "project_id": "paginacion-3de43",
+    "storage_bucket": "paginacion-3de43.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:487354031124:android:8d33ba8b1f37b4659e1b01",
+        "android_client_info": {
+          "package_name": "com.example.ejesem4"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDH3-KHVcQi-PkbTKdOYzFWyvTrpV8lm8A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
